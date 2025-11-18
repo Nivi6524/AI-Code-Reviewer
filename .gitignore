@@ -20,3 +20,4 @@ ai-service/__pycache__/
 
 # Environment Variables
 .env
+/.project
